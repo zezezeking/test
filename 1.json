@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "totalSubs": 2021665,
+    "totalSubs": 281,
     "subsInEachSource": {
       "bilibili": 2021665
     },
